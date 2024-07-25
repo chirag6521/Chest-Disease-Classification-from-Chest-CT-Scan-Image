@@ -11,7 +11,6 @@
 5. Update the components
 6. Update the pipeline 
 7. Update the main.py
-8. Update the dvc.yaml 
 
 
 
@@ -64,10 +63,3 @@ export MLFLOW_TRACKING_PASSWORD=0f6101a9fe25bfa245a91706a8c5484dee7b90b0
 
 ```
 
-
-
-### DVC cmd
-
-1. dvc init
-2. dvc repro
-3. dvc dag
